@@ -4,7 +4,7 @@ import myInfo from '../json/myInfo.json';
 const githubDir = `/react-portfolio`;
 const style = {
 	maxHeight: "30%",
-	width: "30%%"
+	width: "30%"
 }
 
 const Home = () => {
