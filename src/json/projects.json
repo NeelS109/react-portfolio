@@ -47,7 +47,7 @@
         "note": "This collaborated application is built using Javascript, HTML5, CSS, and Foundation 6. The books are provided by the google books api and the best sellers are provided through New York Times best sellers API.",
         "link": "https://srad25.github.io/Book-Hunt/",
         "github": "https://github.com/NeelS109/Book-Hunt",
-        "imgURL": "../assets/images/projects/playerbank.png",
+        "imgURL": "/public/assets/images/projects/bookhunt.png",
         "technologies": [
             {
                 "name": "Javascript",
@@ -78,7 +78,7 @@
         "note": "This application was built using HTML, Javascript, CSS and is stored on MongoDB.",
         "link": "https://shrouded-scrubland-40370.herokuapp.com/",
         "github": "https://github.com/NeelS109/budget-tracker",
-        "imgURL": "../assets/images/projects/budgetTracker.png",
+        "imgURL": "/public/assets/images/projects/budgetTracker.png",
         "technologies": [
             {
                 "name": "Javascript",
@@ -114,7 +114,7 @@
         "note": "This was created using React and stored using Github Pages. User information was imported via Axios api call.",
         "link": "https://neels109.github.io/React-Employee-Directory/",
         "github": "https://github.com/NeelS109/React-Employee-Directory",
-        "imgURL": "../assets/images/projects/employeeDirectory.png",
+        "imgURL": "public/assets/images/projects/employeeDirectory.png",
         "technologies": [
             {
                 "name": "Javascript",
