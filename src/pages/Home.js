@@ -18,7 +18,7 @@ const Home = () => {
 					<div className="col-12 col-md-6">
 						<div className="d-flex justify-content-center mt-2">
 							<img className="rounded-circle py-2" alt="profile"
-								src={`${githubDir}/assets/images/"myinfo.png"`} style={style} />
+								src={`${githubDir}/assets/images/myinfo.png`} style={style} />
 						</div>
 					</div>
 
