@@ -2,6 +2,7 @@ import React from 'react';
 import PropTypes from 'prop-types';
 import TechItem from '../TechItem';
 
+
 const githubDir = `/react-portfolio`;
 const imgSize = {
   height: "100%",
@@ -9,7 +10,7 @@ const imgSize = {
 };
 
 const ProjectDetail = props => {
-
+console.log(props)
   return (
     <div className="  pb-5 mb-5 pb-sm-0 mb-sm-0">
       <div className="row">

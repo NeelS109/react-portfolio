@@ -1,0 +1,148 @@
+[
+    {
+        "name": "Player Bank",
+        "subtitle": "A web applcation designed to for developers to create game concepts and populate them with characters.",
+        "description": "This application is designed to help game developers store game concepts and add either custom or randomly generated characters into them to help populate the game world. Players can keep track of their own games and characters this way, while also viewing the works of other developers to get inspiration.",
+        "note": "This collaborated application is built using Javascript, HTML5, CSS, Express.js, Handlebars and the database created using Sequelize and MySQL.",
+        "link": "https://agile-peak-22805.herokuapp.com/",
+        "github": "https://github.com/NeelS109/Character_Generator",
+        "imgURL": "/public/assets/images/projects/playerbank.png",
+        "technologies": [
+            {
+                "name": "Javascript",
+                "type": "language",
+                "icon": "fab fa-js-square"
+            },
+            {
+                "name": "MySQL",
+                "type": "tool",
+                "icon": "fas fa-database"
+            },
+            {
+                "name": "Express.js",
+                "type": "framework",
+                "icon": "far fa-file-code"
+            },
+            {
+                "name": "Handlebars",
+                "type": "language",
+                "icon": "fal fa-brackets-curly"
+            },
+            {
+                "name": "CSS",
+                "type": "language",
+                "icon": "fab fa-css3"
+            },
+            {
+                "name": "Bootstrap",
+                "type": "framework",
+                "icon": "fab fa-bootstrap"
+            }
+        ]
+    },
+    {
+        "name": "Book Hunt",
+        "subtitle": "Find your next favorite book and checkout the NYT best sellers!",
+        "description": "Book Hunt is an application designed with avid readers in mind, having a one stop shop application where it provides the user/reader with a number of choices to find the prefect book from the comfort of their own homes.",
+        "note": "This collaborated application is built using Javascript, HTML5, CSS, and Foundation 6. The books are provided by the google books api and the best sellers are provided through New York Times best sellers API.",
+        "link": "https://srad25.github.io/Book-Hunt/",
+        "github": "https://github.com/NeelS109/Book-Hunt",
+        "imgURL": "../assets/images/projects/playerbank.png",
+        "technologies": [
+            {
+                "name": "Javascript",
+                "type": "language",
+                "icon": "fab fa-js-square"
+            },
+            {
+                "name": "HTML 5",
+                "type": "language",
+                "icon": "fas fa-html5"
+            },
+            {
+                "name": "Foundation 6",
+                "type": "framework",
+                "icon": "far fa-file-code"
+            },
+            {
+                "name": "CSS",
+                "type": "language",
+                "icon": "fab fa-css3"
+            }
+        ]
+    },
+    {
+        "name": "Budget Tracker",
+        "subtitle": "Keep track of your budget with or without internet!",
+        "description": "This application provides you with the ability to keep track of your budget by subtracting expenses or adding income with or without internet.",
+        "note": "This application was built using HTML, Javascript, CSS and is stored on MongoDB.",
+        "link": "https://shrouded-scrubland-40370.herokuapp.com/",
+        "github": "https://github.com/NeelS109/budget-tracker",
+        "imgURL": "../assets/images/projects/budgetTracker.png",
+        "technologies": [
+            {
+                "name": "Javascript",
+                "type": "language",
+                "icon": "fab fa-js-square"
+            },
+            {
+                "name": "HTML 5",
+                "type": "language",
+                "icon": "fas fa-html5"
+            },
+            {
+                "name": "Express.js",
+                "type": "framework",
+                "icon": "far fa-file-code"
+            },
+            {
+                "name": "CSS",
+                "type": "language",
+                "icon": "fab fa-css3"
+            },
+            {
+                "name": "MongoDB",
+                "type": "tool",
+                "icon": "fas fa-database"
+            }
+        ]
+    },
+    {
+        "name": "Employee Directory",
+        "subtitle": "The sample application is used to access employee records quickly and be able to sort through the records easily.",
+        "description": "This site functions as a employee directory so that a company can better track their employees. The application allows the user to search for an employee by their first name, last name, date of birth, email or phone number. They can also organize the table by clicking on one of the headers to sort by ascending or descending order. ",
+        "note": "This was created using React and stored using Github Pages. User information was imported via Axios api call.",
+        "link": "https://neels109.github.io/React-Employee-Directory/",
+        "github": "https://github.com/NeelS109/React-Employee-Directory",
+        "imgURL": "../assets/images/projects/employeeDirectory.png",
+        "technologies": [
+            {
+                "name": "Javascript",
+                "type": "language",
+                "icon": "fab fa-js-square"
+            },
+            {
+                "name": "HTML 5",
+                "type": "language",
+                "icon": "fas fa-html5"
+            },
+            {
+                "name": "React",
+                "type": "framework",
+                "icon": "fab fa-react"
+                
+            },
+            {
+                "name": "CSS",
+                "type": "language",
+                "icon": "fab fa-css3"
+            },
+            {
+                "name": "Node.js",
+                "type": "tool",
+                "icon": "fab fa-node-js"
+            }
+        ]
+    }
+
+]

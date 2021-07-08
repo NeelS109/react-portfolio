@@ -1,0 +1,97 @@
+[
+    {
+      "aboutMe": "Am experienced in product support, seasoned Analyst, and entry Web Developer.",
+      "background1": "I like solving problems, taking on new challenges, and creating meaningful relationships. From intuitive UI that users can pick up instinctively, data analysis deep dives that provide meaningful and actionable insight, to simple and useful tools that improve productivities, I enjoy bringing value to my surroundings.",
+      "languages": [
+        {
+          "name": "JavaScript",
+          "type": "language",
+          "icon": "fab fa-js-square"
+        },
+        {
+          "name": "HTML",
+          "type": "language",
+          "icon": "far fa-file-code"
+        },
+        {
+          "name": "SQL",
+          "type": "language",
+          "icon": "fas fa-database"
+        },
+        {
+          "name": "CSS",
+          "type": "language",
+          "icon": "fab fa-css3"
+        }
+      ],
+      "tools": [
+        {
+          "name": "GitHub",
+          "type": "tool",
+          "icon": "fab fa-github"
+        },
+        {
+          "name": "Node.js",
+          "type": "tool",
+          "icon": "fab fa-node-js"
+        },
+        {
+          "name": "NPM",
+          "type": "tool",
+          "icon": "fab fa-npm"
+        },
+        {
+          "name": "MySQL",
+          "type": "tool",
+          "icon": "fas fa-database"
+        },
+        {
+          "name": "MongoDB",
+          "type": "tool",
+          "icon": "fas fa-database"
+        },
+        {
+          "name": "VS Code",
+          "type": "tool",
+          "icon": "fas fa-tools"
+        }
+      ],
+      "libraries": [
+        {
+          "name": "React",
+          "type": "framework",
+          "icon": "fab fa-react"
+        },
+        {
+          "name": "Express",
+          "type": "framework",
+          "icon": "far fa-file-code"
+        },
+        {
+          "name": "Bootstrap",
+          "type": "framework",
+          "icon": "fab fa-bootstrap"
+        },
+        {
+          "name": "jQuery",
+          "type": "framework",
+          "icon": "far fa-file-code"
+        },
+        {
+          "name": "Mongoose",
+          "type": "framework",
+          "icon": "far fa-file-code"
+        },
+        {
+          "name": "Sequelize",
+          "type": "framework",
+          "icon": "far fa-file-code"
+        },
+        {
+          "name": "Axios",
+          "type": "framework",
+          "icon": "far fa-file-code"
+        }
+      ]
+    }
+  ]

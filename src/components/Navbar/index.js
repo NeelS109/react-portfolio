@@ -1,12 +1,11 @@
 import React from 'react';
 import { Link } from 'react-router-dom'
-import $ from 'jquery';
+
 
 
 const Navbar = () => {
 
-  const toggle = () => {
-  }
+  const toggle = () => {}
 
   return (
     <nav className="navbar navbar-expand-sm sticky-top navbar-light bg-light" role="navigation">
