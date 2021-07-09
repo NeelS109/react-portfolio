@@ -3,8 +3,8 @@ import myInfo from '../json/myInfo.json';
 
 const githubDir = `/react-portfolio`;
 const style = {
-	Height: "50%",
-	width: "50%"
+	maxHeight: "30%",
+	width: "30%"
 }
 
 const Home = () => {
@@ -18,7 +18,7 @@ const Home = () => {
 					<div className="col-12 col-md-6">
 						<div className="d-flex justify-content-center mt-2">
 							<img className="rounded-circle py-2" alt="profile"
-								src={`${githubDir}/assets/images/bio-image.jpeg`} style={style} />
+								src={`${githubDir}/assets/images/bioImage.jpeg`} style={style} />
 						</div>
 					</div>
 
